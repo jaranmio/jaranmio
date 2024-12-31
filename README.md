@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Léo
 - 👀 I’m interested in computer Software Development and Physics
-- 🌱 I’m am currently exploring the intersection of Computer Science and Physics
+- 🌱 I’m am currently exploring the intersections of Computer Science and Physics
 - 💞️ I’m looking to collaborate on useful applications
 - 📫 How to reach me leokeran@gmail.com
 
